@@ -8,6 +8,15 @@ The scenario is like the following:
   care instructions, and the option to order similar flowers. Develop a ML model for aforesaid
   classification with an example Dataset.
 
+## About the dataset
+
+This dataset contains 4242 images of flowers.
+The data collection is based on the data flicr, google images, yandex images.
+Also, this dataset consists of images of each class in each sub-folder of the flowers folder.
+Each subfolder represents one class here.
+
+## About the implementation
+
 So, for this situation I've taken a dataset that consists of 5 classes namely ['daisy', 'dandelion', 'rose', 'sunflower', 'tulip'].
 The entire images were of these five categories and all were initially stored in the flowers folder which consists of 5 sub-folders, each folder has one class images.
 The number of folders in these 'flowers' represent one class.
