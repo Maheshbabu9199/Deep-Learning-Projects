@@ -15,6 +15,8 @@ The data collection is based on the data flicr, google images, yandex images.
 Also, this dataset consists of images of each class in each sub-folder of the flowers folder.
 Each subfolder represents one class here.
 
+Download the dataset from the url: https://www.kaggle.com/datasets/alxmamaev/flowers-recognition
+
 ## About the implementation
 
 So, for this situation I've taken a dataset that consists of 5 classes namely ['daisy', 'dandelion', 'rose', 'sunflower', 'tulip'].
@@ -42,7 +44,6 @@ For showing up the similiar images, once we get the category of the flower we ca
 
 ## For running the above code
 
-Install the requirements.txt libraries
-Download the dataset from the url: https://www.kaggle.com/datasets/alxmamaev/flowers-recognition
-Extract and store initially all the flowers images in the flowers folder.
+Install the requirements.txt libraries by running the command pip install -r requirements.txt
+Extract and store initially all the flowers images in the flowers folder once it is downloaded from the above url.
 Take this folder as base and change the necessary path's in the code and then run the scenario01.ipynb file.
