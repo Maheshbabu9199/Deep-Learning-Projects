@@ -31,3 +31,9 @@ Once the data is captured/uploaded by the user, we can retrieve it or send it to
 For showing up the similiar images, once we get the category of the flower we can randomly pick some images from the folder using random library and display them to the user. In this way, we can integrate our model with the application for identification, classification, information retrieval and then showing the similiar images to the user.
 
 
+## For running the above code
+
+Install the requirements.txt libraries
+Download the dataset from the url: https://www.kaggle.com/datasets/alxmamaev/flowers-recognition
+Extract and store initially all the flowers images in the flowers folder.
+Take this folder as base and change the necessary path's in the code and then run the scenario01.ipynb file.
