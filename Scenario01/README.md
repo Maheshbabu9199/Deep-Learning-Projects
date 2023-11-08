@@ -26,8 +26,8 @@ Once, we are able to figure out the category of the class of the flower, then we
 
 We can use the frameworks like Flask or Django for the connecting the backend (Python Programming) and frontend.
 
-Once the data is captured/uploaded by the user, we can retrieve it or send it to the model which will be autoloaded by pickle library and perform the predictions and then return the resulting output to the frontend.
+Once the data is captured/uploaded by the user, we can retrieve it or send it to the model which will be autoloaded by pickle library and perform the predictions and then return the resulting output to the frontend. 
 
-In this way, we can integrate our model with the application.
+For showing up the similiar images, once we get the category of the flower we can randomly pick some images from the folder using random library and display them to the user. In this way, we can integrate our model with the application for identification, classification, information retrieval and then showing the similiar images to the user.
 
 
