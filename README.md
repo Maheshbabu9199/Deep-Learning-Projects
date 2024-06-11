@@ -1,5 +1,5 @@
-# DRDO_Assignment
-This repository is for the assignment of the DRDO internship.
+
+This repository is for the Deep Learning Scenario based problem statements.
 It includes the deep learning models to tackle the below scenarios.
 
 
